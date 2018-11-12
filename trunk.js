@@ -1,3 +1,3 @@
  makeTrunk=()=>{
- return trk
+     console.log("Hello");
 }
